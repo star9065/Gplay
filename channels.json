@@ -75,7 +75,7 @@
     "name": "SONY SAB HD",
     "logo": "https://raw.githubusercontent.com/KratosRepo/TATA-WEB/main/logo/SONY%20SAB%20HD.webp",
     "group": "",
-    "url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd",
+    "url": "http://103.120.172.74:4300",
     "license_key": "db6f1dbe0c005c2694914cca4791f6d5",
     "license_key2": "6f78f46833022785c8df240e5a13d94a"
   },
