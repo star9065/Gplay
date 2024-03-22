@@ -19,7 +19,7 @@
     "name": "Sony Ten 3",
     "logo": "https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/84ae1e76-ec5e-44da-bd8f-b1c9d9663b26/d33a8bd6-14b0-4bb4-84ac-6fb3ec426611.png?width=300",
     "group": "",
-    "url": "https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-ten-3-live",
+    "url": "https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-ten-3-live&e.m3u8",
     "license_key": "d61f6881489f5ba5a8064a03e38d12c5",
     "license_key2": "d17c1f3b39379589d56f645f096bbb6f"
   },
@@ -27,7 +27,7 @@
     "name": "Sony HD",
     "logo": "https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/3b5ee0f7-d26a-45b5-94a1-24b7ec1421f0/74b936f0-12b0-487f-bccf-71f71031ec66.png?width=300",
     "group": "",
-    "url": "https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-hd-live",
+    "url": "https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-hd-live&e=.m3u8",
     "license_key": "a3850c8a95e751f6a12f592279668e8f",
     "license_key2": "d9c3ea93f5651b8ca3227916e992d8c9"
   },
@@ -43,7 +43,7 @@
     "name": "Sony Wah",
     "logo": "https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/2a00b18f-23cb-4f53-b7a8-c2f31892fb7f/cac80416-4978-472b-bde3-90834289a175.png?width=300",
     "group": "",
-    "url": "https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-wah-live",
+    "url": "https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-wah-live&e=.m3u8",
     "license_key": "2725f7382a1552dc881a8b2fba215460",
     "license_key2": "a8829cf4cccf83193afcff368aac73e3"
   },
