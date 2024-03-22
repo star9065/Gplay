@@ -32,7 +32,7 @@
     "license_key2": "d9c3ea93f5651b8ca3227916e992d8c9"
   },
 {
-    "name": "Sony Sab HD",
+    "name": "Sony Sab",
     "logo": "https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/825a35e8-a1c7-4abf-84cf-d9b7e21e5657/0369f492-c12f-4dab-a2a9-a090943521dc.png?width=300",
     "group": "",
     "url": "https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-sab-tv-live&e.=.m3u8",
@@ -50,8 +50,8 @@
 {
     "name": "Sony Max",
     "logo": "https://cdn1.bioscopelive.com/c3c98d1b-c581-452d-a385-941ca69401e9/content/bc31f211-29d9-43be-88b1-0176cc608c06/721af74c-cda6-4144-942c-5b84f573ade8.png?width=300",
-    "group": "Sony",
-    "url": "https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-max-hd-live",
+    "group": "",
+    "url": "https://bongohub.pw/api/bdsajib/bioscope.m3u8?id=sony-max-hd-live&e=.m3u8",
     "license_key": "2725f7382a1552dc881a8b2fba215460",
     "license_key2": "a8829cf4cccf83193afcff368aac73e3"
   },
